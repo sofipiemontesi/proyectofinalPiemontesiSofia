@@ -1,0 +1,7 @@
+[
+    {"id":"catering", "nombre":"catering", "precio": 100},
+    {"id":"ambientacion", "nombre":"ambientacion", "precio": 30},
+    {"id":"barra", "nombre":"barra", "precio": 40},
+    {"id":"personal", "nombre":"personal", "precio": 10},
+    {"id":"musica", "nombre":"musica", "precio": 700}
+]

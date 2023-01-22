@@ -1,0 +1,28 @@
+body{
+    background-image: url(./img/fondo.jpg);
+    text-align: center;
+}
+#lugares{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.lugar{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 220px;
+    width: 500px;
+    margin: 20px;
+
+}
+img{
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+}
+p{
+    margin: 10px;
+}
